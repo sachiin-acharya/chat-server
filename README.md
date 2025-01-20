@@ -267,7 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGithub](https://github.com/sachiin-acharya)
+- Rajesh Adhikari - ((https://github.com/rjad-dev))
+- Sachin Acharya - (https://github.com/sachiin-acharya)
 
 ## 🙏 Acknowledgments
 
